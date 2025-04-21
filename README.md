@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm James Philip!</h1>
-<h3 align="center">Tech enthusiast • Full-stack dev • 3D printing junkie • IoT enjoyer</h3>
 
 ---
 
