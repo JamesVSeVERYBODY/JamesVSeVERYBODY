@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesVSeVERYBODY&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
@@ -27,30 +27,14 @@
 <!-- Activity Graph -->
 ### 🌀 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-<!-- Spotify Now Playing -->
-### 🎧 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesVSeVERYBODY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JamesVSeVERYBODY&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 ---
-
-<!-- Contact -->
-### 🤝 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
