@@ -12,25 +12,6 @@
   <img src="https://img.shields.io/badge/3D_Printing-BambuLab-orange?style=flat&logo=print&color=orange" />
 </p>
 
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesVSeVERYBODY&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesVSeVERYBODY&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
-<!-- Activity Graph -->
-### 🌀 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesVSeVERYBODY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JamesVSeVERYBODY&style=flat-square&color=blue" alt="profile views" />
