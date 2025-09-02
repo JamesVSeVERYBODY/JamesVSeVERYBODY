@@ -6,16 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **innovative web and mobile applications**
-- 🌱 I'm constantly learning new technologies and improving my skills
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Flutter, Python, or 3D Printing**
-- ⚡ Fun fact: I love turning ideas into reality through code and 3D printing!
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend Development
